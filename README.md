@@ -136,3 +136,8 @@ The goal of AmbientIQ is to demonstrate how embedded hardware, wireless communic
 
 The project provides hands-on experience with sensor interfacing, ESP8266 programming, MQTT communication, cloud data integration, and real-time monitoring workflows.
 
+Connect With Me :- 
+
+Rutika Lokhande
+Aspiring Software Developer | IoT & Embedded Systems Enthusiast
+
